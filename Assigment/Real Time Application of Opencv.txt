@@ -1,4 +1,4 @@
-OpenCV (Open Source Computer Vision) is a popular open-source library that provides a wide range of tools and functions for computer vision and image processing applications. It is widely used in various real-time applications across different fields. Here are some examples of real-time applications of OpenCV:
+#OpenCV (Open Source Computer Vision) is a popular open-source library that provides a wide range of tools and functions for computer vision and image processing applications. It is widely used in various real-time applications across different fields. Here are some examples of real-time applications of OpenCV:
 
 1) Face Detection and Recognition: OpenCV can be used to detect and recognize faces in real-time, enabling applications like facial authentication, access control systems, and emotion recognition.
 
