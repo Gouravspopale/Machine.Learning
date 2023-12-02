@@ -28,7 +28,7 @@ This repository is full of practical guide of python libraries NumPy, Pandas, Ma
 
 
 <!-- OpenCV Icon and Information -->
-<p align="center">
+<p align="left">
   <a href="https://opencv.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV Logo" height="100"/>
   </a>
