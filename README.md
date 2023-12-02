@@ -34,18 +34,18 @@ This repository is full of practical guide of python libraries NumPy, Pandas, Ma
   </a>
 </p>
 
-<h1 align="center">OpenCV</h1>
+<h1 align="left">OpenCV</h1>
 
-<p align="center">
+<p align="left">
   OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library.
 </p>
 
-<p align="center">
+<p align="left">
   For more information, visit the official <a href="https://opencv.org/" target="_blank">OpenCV website</a>.
 </p>
 
 <!-- OpenCV Cheat Sheet -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/opencv/OpenCV/wiki/Cheat-Sheets" target="_blank">OpenCV Cheat Sheets</a>
 </p>
 
